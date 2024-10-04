@@ -10,11 +10,11 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<div id="">
   <ul align="center">
-    <summary>
+    <!-- <summary>
         <h2 style="display: inline-block">Software Developer</h2>
-    </summary>
+    </summary> -->
      <p align="center" style="font-weight: normal;">
       I specialize in building robust, scalable web applications with a focus on security, performance, and user experience. My work spans cloud infrastructure, backend and frontend development, with a background in cybersecurity and a deep expertise in mathematics.
     </p>
@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Local first architectures and multiplayer applications**
 
-- 💬 Ask me about **Go, React, AWS, Cloudflare, nodejs, SQL**
+- 💬 Ask me about **Go, React, AWS, Cloudflare, Node.js, SQL**
 
 - 📫 Feel free to reach me out **aidenpcline@gmail.com**
 
