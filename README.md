@@ -3,22 +3,18 @@
 
 <!--h1 without bottom border-->
 <div >
-    <ul id="user-content-toc" align="center">
-        <summary><h1 style="display: inline-block">Hi 👋, I'm Aiden</h1></summary>
-    </ul>
-    <p align="center" style="font-weight: normal;">
-        I specialize in building robust, scalable web applications with a focus on security, performance, and user experience. My work spans cloud infrastructure, backend and frontend development, with a background in cybersecurity and a deep expertise in mathematics.
-    </p>
+  <ul id="user-content-toc" align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Aiden</h1></summary>
+  </ul>
 </div>
 
 
 <!--h2 without bottom border-->
 <div id="">
   <ul align="center">
-    <!-- <summary>
-        <h2 style="display: inline-block">Software Developer</h2>
-    </summary> -->
-  
+     <p align="center" style="font-weight: normal;">
+      I specialize in building robust, scalable web applications with a focus on security, performance, and user experience. My work spans cloud infrastructure, backend and frontend development, with a background in cybersecurity and a deep expertise in mathematics.
+    </p>
   </ul>
 </div>
 
@@ -78,7 +74,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,vim,vite,go,cpp,css,docker,postgres,prisma,dynamodb,express,figma,redis,github,gitlab,html,java,js,terraform,linux,md,materialui,sqlite,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,vim,vite,go,cpp,css,docker,postgres,prisma,dynamodb,express,figma,redis,github,gitlab,html,java,js,terraform,linux,bun,deno,md,htmx,materialui,sqlite,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
