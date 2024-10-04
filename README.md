@@ -15,8 +15,8 @@
     <summary>
         <h2 style="display: inline-block">Software Developer</h2>
     </summary>
-    <p align="center">
-        I specialize in building robust, scalable web applications with a focus on security, performance, and user experience. My work spans cloud infrastructure, backend and frontend development, with a background in cybersecurity and a strong foundation in mathematics.
+     <p align="center" style="font-weight: normal;">
+      I specialize in building robust, scalable web applications with a focus on security, performance, and user experience. My work spans cloud infrastructure, backend and frontend development, with a background in cybersecurity and a deep expertise in mathematics.
     </p>
   </ul>
 </div>
