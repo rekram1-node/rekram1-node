@@ -9,34 +9,29 @@
 </div>
 
 
-<!--- snake -->
-<!-- <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div> -->
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Software Engineer with Background in Mathematics and Cybersecurity</h2></summary>
+    <summary>
+        <h2 style="display: inline-block">Software Developer</h2>
+    </summary>
+    <p align="center">
+        I specialize in building robust, scalable web applications with a focus on security, performance, and user experience. My work spans cloud infrastructure, backend and frontend development, with a background in cybersecurity and a strong foundation in mathematics.
+    </p>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Vault Block**
 
-- 🌱 I’m currently learning **Local first architectures and multiplayer applications using tools like Replicache and PartyKit.**
+- 🌱 I’m currently learning **Local first architectures and multiplayer applications**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **go, react, AWS, Cloudflare, nodejs, SQL**
+- 💬 Ask me about **Go, React, AWS, Cloudflare, nodejs, SQL**
 
 - 📫 Feel free to reach me out **aidenpcline@gmail.com**
 
 <!--Intro end-->
-
 
 
 <!--- stats & Trophy (start) -->
@@ -82,7 +77,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,vim,vite,go,cpp,css,docker,postgres,prisma,drizzle,dynamodb,express,figma,redis,github,gitlab,html,java,js,terraform,linux,md,materialui,sqlite,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,vim,vite,go,cpp,css,docker,postgres,prisma,dynamodb,express,figma,redis,github,gitlab,html,java,js,terraform,linux,md,materialui,sqlite,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
