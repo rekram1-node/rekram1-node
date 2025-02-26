@@ -20,13 +20,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Vault Block**
+<!-- 🔭 I’m currently working on **Vault Block**
 
 - 🌱 I’m currently learning **Local first architectures and multiplayer applications**
 
 - 💬 Ask me about **Go, React, AWS, Cloudflare, Node.js, SQL**
 
-- 📫 Feel free to reach me out **aidenpcline@gmail.com**
+- 📫 Feel free to reach me out **aidenpcline@gmail.com** -->
 
 <!--Intro end-->
 
